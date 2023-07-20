@@ -1,5 +1,3 @@
-# GitHub sucks
-
 Head over to [sourcehut] or [Codeberg].
 
 [sourcehut]: https://sr.ht
