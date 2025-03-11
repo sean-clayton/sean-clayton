@@ -1,2 +1,1 @@
-- [Codeberg](https://codeberg.org/sean)
-- [@sean@dice.camp](https://dice.camp/@sean)
+# 👋
