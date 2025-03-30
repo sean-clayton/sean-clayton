@@ -1,3 +1,3 @@
 # 👋
 
-<a href="https://dreadbeef.org" rel="me></a>
+<a href="https://dreadbeef.org" rel="me>0xDREADBEEF</a>
